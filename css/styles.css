@@ -1,0 +1,31 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  color: brown;
+  background-color: bisque;
+  font-family: "Roboto", sans-serif;
+}
+.nav-link {
+  color: darkgreen;
+  text-decoration: none;
+}
+.address-link a {
+  color: currentColor;
+  text-decoration: none;
+}
+.nav-link:hover,
+.nav-link:focus {
+  text-decoration: underline;
+}
+.address-link a:hover,
+.address-link a:focus {
+  text-decoration: underline;
+}
+.hero {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+.link a {
+  font-family: "Raleway", sans-serif;
+}
